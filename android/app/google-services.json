@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696204918139",
+    "project_id": "fypunitedbikerportal",
+    "storage_bucket": "fypunitedbikerportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696204918139:android:5ec08c13758828b77651de",
+        "android_client_info": {
+          "package_name": "com.example.unitedbiker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_fuT8yQ7M6MdlFudJWjUh6njiQC-gVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
